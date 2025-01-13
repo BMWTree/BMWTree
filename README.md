@@ -36,4 +36,4 @@ costing a modest 0.522% (1.043mm2 ) chip area and 0.57MB off-chip memory to supp
 
 ## 📖 License
 
-The project is released under the Apache License.
+The project is released under the Apache-2.0 License.
