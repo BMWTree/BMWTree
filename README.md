@@ -5,14 +5,31 @@
 </h1>
 <p align="center">
   <a href="#-key-features">Key Features</a> •
+  <a href="#-authors">Authors</a> •
+  <a href="#-publication">Publication</a> •
   <a href="#-get-started">Get Started</a> •
-  <a href="#-license">License</a> •
+  <a href="#-license">License</a>
 </p>
 
 ## 🎯 Key Features
 BMW-Tree is  a new data structure for accurate, large-scale and high-throughput PIFO implementation.It is modularized, insertion-balanced and pipelinefriendly with autonomous nodes. Based on the tree, we build two
 pipelined hardware designs named R-BMW and RPU-BMW. RBMW achieves high throughput while maintaining a relatively small scale, whereas RPU-BMW features both large scale and high throughput. BMW-Tree is likely to be an attractive option for the
 programmable scheduler in the next-generation traffic managers.
+
+## 👥 Authors
+- Ruyi Yao (Fudan University) <ryyao20@fudan.edu.cn>  
+- Zhiyu Zhang (Fudan University) <22110240078@m.fudan.edu.cn>  
+- Gaojian Fang (Fudan University) <fanggj21@m.fudan.edu.cn>  
+- Peixuan Gao (New York University) <pg1540@nyu.edu>  
+- Sen Liu (Fudan University) <senliu@fudan.edu.cn>  
+- Yibo Fan (State Key Laboratory of ASIC and System, Fudan University) <fanyibo@fudan.edu.cn>  
+- [Yang Xu](https://yangxu.info/) (Fudan University, Peng Cheng Laboratory) <xuy@fudan.edu.cn>  
+- H. Jonathan Chao (New York University) <chao@nyu.edu>  
+
+## 📜 Publication
+This work is published in ACM SIGCOMM 2023:  
+**BMW Tree: Large-scale, High-throughput and Modular PIFO Implementation using Balanced Multi-Way Sorting Tree**  
+[📄 Paper Link](https://dl.acm.org/doi/10.1145/3603269.3604862)  
 
 ## 🚄 Get Started
 
