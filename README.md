@@ -17,7 +17,7 @@ pipelined hardware designs named R-BMW and RPU-BMW. RBMW achieves high throughpu
 programmable scheduler in the next-generation traffic managers.
 
 ## 👥 Authors
-- Ruyi Yao (Fudan University) <ryyao20@fudan.edu.cn>  
+- [Ruyi Yao](https://ruyiyao.github.io/)(Fudan University) <ryyao20@fudan.edu.cn>  
 - Zhiyu Zhang (Fudan University) <22110240078@m.fudan.edu.cn>  
 - Gaojian Fang (Fudan University) <fanggj21@m.fudan.edu.cn>  
 - Peixuan Gao (New York University) <pg1540@nyu.edu>  
